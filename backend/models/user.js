@@ -8,7 +8,7 @@ function usersToObj(result) {
       firstname: user.firstname,
       lastname: user.lastname,
       username: user.username,
-      avatar: user.avatar,
+      avatar: user.avatar ,
     };
   });
   return users;
