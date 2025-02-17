@@ -18,7 +18,7 @@ function rollDice() {
   });
 }
 
-// Roll dice twice and calculate the sum of the two dice values
+// Roll dice twice and calculate the sum of the two values
 sum = 0;
 (async () => {
   try {
